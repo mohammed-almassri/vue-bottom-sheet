@@ -9,7 +9,7 @@
     "lint:types": "vue-tsc"
   },
   "dependencies": {
-    "hammerjs": "^2.0.8"
+    "hammerjs": "git+https://github.com/squadette/hammer.js.git"
   },
   "devDependencies": {
     "@rushstack/eslint-patch": "^1.1.4",
